@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40yaseenhq-0077B5?logo=linkedin)](https://linkedin.com/in/yaseenhq)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel%20/%20Demo%20Content-FF0000?logo=youtube)](https://www.youtube.com/@YaseenHQ)
 
-Hi, I'm [@YaseenHQ](https://github.com/YaseenHQ), a Computer Science graduate student at NYU. I’m passionate about building secure, intelligent systems—whether it’s creating a password manager from scratch, exploring LLM performance for enterprises, or developing computer vision systems to enhance safety and interaction in LinkedIn Terms, which translates to "I build halfway through some apps and leave it to collect dust and sometimes create a good app or two in process by luck".
+Hi, I'm [@YaseenHQ](https://github.com/YaseenHQ), a Computer Science graduate student at NYU. I build halfway through some apps and leave it to collect dust and sometimes create a good app or two in process.
 ---
 
 ## 🔧 I Enjoy Working On:
