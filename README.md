@@ -4,21 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40yaseenhq-0077B5?logo=linkedin)](https://linkedin.com/in/yaseenhq)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel%20/%20Demo%20Content-FF0000?logo=youtube)](https://www.youtube.com/@YaseenHQ)
 
-Hi, I'm [@YaseenHQ](https://github.com/YaseenHQ), a Computer Science graduate student at NYU. I build halfway through some apps and leave it to collect dust and sometimes create a good app or two in process.
----
+Hi, I'm [Yaseen](https://github.com/YaseenHQ), a Computer Science graduate student at NYU. I build halfway through some apps and leave it to collect dust and sometimes create a good app or two in process.
 
-## 🔧 I Enjoy Working On:
-
-- AI & ML applications in real-world contexts  
-- Java/Python-powered software engineering  
-- Research and evaluation of cutting-edge technologies  
-- Open-source contributions and hackable prototypes  
-  _→ Mostly pull requests for stuff I’d want to see in an app / testing and suggesting changes for the apps I use_  
-  _(_**If it ain’t broke, don’t fix it.**_)_
+  **If it ain’t broke, don’t fix it.**
 
 ---
 
-## 🎤 Public Talks & Demos
+## 🎤 Public Demos
 
 - 🎥 [Secure Password Manager Demo (JavaFX, Argon2)](https://www.youtube.com/watch?v=hp9tMniOi9M)  
 - 📄 [Springer Conference: Intrusion Detection using Computer Vision](https://link.springer.com/chapter/10.1007/978-3-031-82383-1_1)
@@ -51,7 +43,8 @@ Hi, I'm [@YaseenHQ](https://github.com/YaseenHQ), a Computer Science graduate st
 Always down to collaborate, brainstorm research, or just nerd out over cool ideas.  
 Connect with me on [LinkedIn](https://linkedin.com/in/yaseenhq) or check out my [GitHub](https://github.com/YaseenHQ).  
 
-📫 For quicker replies: **MoYaseen@proton.me**  (ETA for emails - Max. 48 Hours)
+📫 For quicker replies: **MoYaseen@proton.me**  (Usually you'll get a reply from me within 12hrs but at most 48 Hours)
+    Please Include What the convo is about - How you found me (Like here on GitHub) etc, Helps a ton
 
 
 <!--
