@@ -1,32 +1,13 @@
-<h2 align="center">Hi, I’m Yaseen 👋</h2>
-<p align="center">CS Grad Student @ NYU · Builder of apps (some make it, some don’t)</p>
+<h2>Hi, I’m Yaseen 👋</h2>
+
+- 🎓 CS Grad Student @ NYU  
+- 🛠 Builder of apps (some make it, some don’t)  
+
+[🌐 yaseen.in](https://yaseen.in)
 
 ---
 
-### 🚀 Projects
-- Intrusion Detection *(Springer published)*  
-- PassMan *(JavaFX + Argon2)*  
-- Gesture Gaming *(MediaPipe + Pygame)*  
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logoColor=white)](https://github.com/YaseenHQ)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logoColor=white)](https://linkedin.com/in/yaseenhq)
+[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logoColor=white)](https://www.youtube.com/@YaseenHQ)
 
-### 🛠 Tech
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25"/>
-</p>
-
----
-
-<p align="center">📫 <b>MoYaseen@proton.me</b></p>
-
-<p align="center">
-  <a href="https://github.com/YaseenHQ">
-    <img src="https://img.shields.io/badge/GitHub-%40YaseenHQ-181717?logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/yaseenhq">
-    <img src="https://img.shields.io/badge/LinkedIn-%40yaseenhq-0077B5?logo=linkedin" />
-  </a>
-  <a href="https://www.youtube.com/@YaseenHQ">
-    <img src="https://img.shields.io/badge/YouTube-Yaseen-FF0000?logo=youtube" />
-  </a>
-</p>
